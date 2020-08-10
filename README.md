@@ -1,4 +1,4 @@
-# lockcept 
+# ![icon](./lockcept.png) lockcept 
 ### Hello lockcept world!
 
 
@@ -21,7 +21,7 @@ PHP, Bootstrap, React
 **lockcept.kr** : http://lockcept.kr
 
 
-## Work Experiences
+## 🔭 Work Experiences
 
 ## 📫 Sites
 site: http://lockcept.kr  
