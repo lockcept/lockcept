@@ -1,4 +1,4 @@
-# ![icon](./lockcept.png) lockcept 
+# <img src="./lockcept.png" width="40" height="40" /> lockcept 
 ### Hello lockcept world!
 
 
