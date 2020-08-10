@@ -18,7 +18,7 @@ PHP, Bootstrap, React
 
 
 ## 🚀 Projects
-**lockcept.kr** : http://lockcept.kr
+**lockcept.kr** : https://github.com/lockcept/lockcept.kr
 
 
 ## 🔭 Work Experiences
