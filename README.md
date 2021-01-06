@@ -4,11 +4,11 @@
 
 ## 💻 IT Skills
 ### Strong
-Python, C++, Java
+Python, C++, Java, Typescript
 ### Knowledge
-Git, Typescript, Ocaml, Slack, Node.js, Unity, Linux, AWS
+Git, Ocaml, Slack, Node.js, Linux, AWS, React
 ### Beginner
-PHP, Bootstrap, React
+PHP, Bootstrap, Unity
 
 
 ## 🌱 Education
