@@ -4,9 +4,9 @@
 
 ## 💻 IT Skills
 ### Strong
-Python, C++, Typescript, Node.js, React
+Python, C++, Typescript, Node.js, React, Git, AWS
 ### Knowledge
-Java, Git, Ocaml, Slack, Linux, AWS
+Java, Git, Linux
 ### Beginner
 PHP, Bootstrap, Unity
 
@@ -18,10 +18,13 @@ PHP, Bootstrap, Unity
 
 
 ## 🚀 Projects
-**lockcept.kr** : https://github.com/lockcept/lockcept-world
+[**lockcept world**](https://github.com/lockcept/lockcept-world)  
+[**lockcepted**](https://lockcept.kr)
 
 
 ## 🔭 Work Experiences
+[**PPLINK**](https://www.pagecall.com/) 2020.07 ~
+
 
 ## 📫 Sites
 site: http://lockcept.kr  
@@ -30,19 +33,3 @@ facebook: https://www.facebook.com/lockcept
 
 ## 💩 hobby
 ### 🎮 Game
-
-
-<!--
-**lockcept/lockcept** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
