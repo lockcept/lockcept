@@ -6,14 +6,14 @@
 ### Strong
 Python, C++, Typescript, Node.js, React, Git, AWS
 ### Knowledge
-Java, Git, Linux
+Java, Linux
 ### Beginner
-PHP, Bootstrap, Unity
+Unity, Flutter & Dart
 
 
 ## 🌱 Education
 **2013-2015** : Gyeonggi Science High School, Suwon, Korea  
-**2016-2021** : Majoring Department of Industrial Engineering and Minoring Department of Computer Science and Engineering, Seoul National University, Korea  
+**2016-2023** : Double Majoring Department of Industrial Engineering and Department of Computer Science and Engineering, Seoul National University, Korea  
 **2019.03-2019.05** : Exchange Semester ICM, Master’s Degree in Science and Executive Engineering, École des Mines de Saint Étienne, France  
 
 
@@ -23,7 +23,7 @@ PHP, Bootstrap, Unity
 
 
 ## 🔭 Work Experiences
-[**PPLINK**](https://www.pagecall.com/) 2020.07 ~
+[**Pagecall**](https://www.pagecall.com/) 2020.07 ~ 2023.04
 
 
 ## 📫 Sites
