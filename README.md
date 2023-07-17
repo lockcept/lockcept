@@ -28,8 +28,8 @@ Unity, Flutter & Dart
 
 ## 📫 Sites
 site: http://lockcept.kr  
-blog: https://blog.lockcept.kr/  
-facebook: https://www.facebook.com/lockcept  
+blog: https://blog.lockcept.kr/
+linkedin: https://www.linkedin.com/in/lockcept/
 
 ## 💩 hobby
 ### 🎮 Game
