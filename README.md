@@ -6,14 +6,14 @@
 ### Strong
 Python, C++, Typescript, Node.js, React, Git, AWS
 ### Knowledge
-Java, Linux
+Java, Linux, Flutter & Dart
 ### Beginner
-Unity, Flutter & Dart
+Unity C#, Ocaml
 
 
 ## 🌱 Education
 **2013-2015** : Gyeonggi Science High School, Suwon, Korea  
-**2016-2023** : Double Majoring Department of Industrial Engineering and Department of Computer Science and Engineering, Seoul National University, Korea  
+**2016-2024** : Double Majoring Department of Industrial Engineering and Department of Computer Science and Engineering, Seoul National University, Korea  
 **2019.03-2019.05** : Exchange Semester ICM, Master’s Degree in Science and Executive Engineering, École des Mines de Saint Étienne, France  
 
 
@@ -30,6 +30,3 @@ Unity, Flutter & Dart
 site: http://lockcept.kr  
 blog: https://blog.lockcept.kr/  
 linkedin: https://www.linkedin.com/in/lockcept/
-
-## 💩 hobby
-### 🎮 Game
